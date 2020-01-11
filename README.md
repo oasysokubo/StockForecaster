@@ -1,5 +1,3 @@
-# stock_forecaster
-
 An implementation of an Artificial Neural Network using Keras for predicting the stock price movement.
 Also to download historic prices, apply a strategy, and see the strategy performance vis-a-vis the actual stock prices.
 
